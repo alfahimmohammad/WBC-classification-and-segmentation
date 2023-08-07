@@ -13,3 +13,5 @@ Extract the dataset blood_cell_images.zip and keep the Python files and the extr
   - mia_grad_cam.py (experimental - ran into GPU memory allocation issues. May run on bigger GPUs) --> Grad-CAM implementation
 
 Please look at the comments in the cells for instructions and summaries of what each cell does.
+
+Model checkpoints can be downloaded from [here]<https://drive.google.com/drive/folders/1ufI-6CeJj8Qkyle-jrVBGW5Umm1bRJJT?usp=sharing>
