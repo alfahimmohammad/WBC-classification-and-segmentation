@@ -2,7 +2,8 @@
  This repository contains codes for the classification and segmentation of white blood cells.
 
 requirements.txt file may be used to create an environment using the following:
-`$ conda create --name <env> --file <this file>`
+
+`$ conda create --name <env> --file requirements.txt`
 
 Extract the dataset blood_cell_images.zip and keep the Python files and the extracted "blood_cell_images" folder in the same working directory.
 
